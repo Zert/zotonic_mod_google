@@ -1,0 +1,4 @@
+[
+	{google_authorize, ["google", "authorize"], resource_google_authorize, []},
+	{google_redirect,  ["google", "redirect"], resource_google_redirect, []}
+].
